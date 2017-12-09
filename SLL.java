@@ -3,7 +3,7 @@
  * @Brief - Single Linked List - Demonstrated the major function associated with single linked list
  *          InsertatBegin,InsertatEnd,DeleteNode,FindNode,ClearList, SortbyId,SortbyFirstName,SortbyLastname
  * 			
- 
+ Author- Coding-Fusion
  */
 public class SLL {
 	private Node Head;
